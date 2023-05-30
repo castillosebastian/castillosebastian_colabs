@@ -1,0 +1,17 @@
+pandas
+numpy
+polars
+black
+torch
+ipykernel
+ipywidgets
+pathlib
+seaborn
+fastbook
+dill
+optuna
+torchx
+ax-platform
+mnist
+inFairness
+sklearn
