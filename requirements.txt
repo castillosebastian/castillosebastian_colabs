@@ -15,3 +15,5 @@ ax-platform
 mnist
 inFairness
 sklearn
+nbconvert
+pandoc
