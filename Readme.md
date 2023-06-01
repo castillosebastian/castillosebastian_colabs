@@ -1,5 +1,3 @@
-![sebastian](avatar.png)
-
 # castillosebastian_colabs
 
 Welcome to my supplementary repository where you'll find various notebooks and utilities used in the exploration and development of AI tools. 
